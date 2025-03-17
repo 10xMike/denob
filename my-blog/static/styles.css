@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.date {
+  color: gray;
+  font-size: 0.9em;
+}
+
+article {
+  line-height: 1.6;
+}
