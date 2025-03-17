@@ -14,7 +14,7 @@ export default function Home() {
           Try updating this message in the
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
-        <a href="/blog">Vai agli articoli</a>
+        <a href="blog">Vai agli articoli</a>
       </div>
     </div>
   );
